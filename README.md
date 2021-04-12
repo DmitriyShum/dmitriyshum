@@ -6,4 +6,4 @@
 [Website](https://www.dhotspot.xyz)
 [Twitter](https://www.twitter.com/DmitriyShumkin)
 ***
-![image](https://www.dhotspot.xyz/logo.ico)(https://www.dhotspot.xyz)
+![image](https://www.dhotspot.xyz/logo.ico)
