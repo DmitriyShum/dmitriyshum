@@ -3,5 +3,5 @@
 - Who am I? : I'm Dmitriy, 22 years old, born in Tashkent, Uzbekistan raised in th U.S, and a Computer Science student.
 - Skills : Bilingual Russian, drawing, HTML, CSS, Java, and Python
 ***
-[Website](https://www.dhotspot.xyz) [https://www.dhotspot.xyz/twitter.png](https://www.twitter.com/DmitriyShumkin)
+[Website](https://www.dhotspot.xyz) [twitter.png](https://www.twitter.com/DmitriyShumkin)
 ***
