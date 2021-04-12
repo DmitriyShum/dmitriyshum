@@ -4,5 +4,5 @@
 - Skills : Bilingual Russian, drawing, HTML, CSS, Java, and Python
 ***
 <a href="https://www.dhotspot.xyz"><img src="https://www.dhotspot.xyz/logo.ico"></img></a>
-<a href="https://www,twitter.com/DmitriyShumkin"><img src="https://www.dhotspot.com/twitter.png"></img></a>
+<a href="https://www,twitter.com/DmitriyShumkin"><img src="https://www.dhotspot.xyz/twitter.png"></img></a>
 ***
