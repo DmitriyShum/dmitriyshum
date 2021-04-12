@@ -4,7 +4,7 @@
   </head>
   <body>
     <div class="about">
-    <h3 style="color:green;">Welcome to my Github!</h3>
+    <h3 style="font-color:green;">Welcome to my Github!</h3>
     <ul>
 <li>Who am I? : I'm Dmitriy, 22 years old, born in Tashkent, Uzbekistan raised in th U.S, and a Computer Science student.</li>
 <li>Skills : Bilingual Russian, drawing, HTML, CSS, Java, and Python</li>
