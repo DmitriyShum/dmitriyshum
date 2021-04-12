@@ -1,8 +1,4 @@
-### Welcome!
+### Welcome to my Github!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning for Computer Science.
-- 👯 I’m looking to collaborate on Marine Science.
-- 📫 How to reach me: [Twitter](https://www.twitter.com/DmitriyShumkin)
-- ⚡ Fun fact: 
--->
+- Who am I? : I'm Dmitriy, 22 years old, born in Tashkent, Uzbekistan raised in th U.S, and a Computer Science student.
+- Skills : Bilingual Russian, drawing, HTML, CSS, Java, and Python
