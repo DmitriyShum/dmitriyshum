@@ -1,7 +1,7 @@
 
 ## Welcome to my Github!
 
-I'm Dmitriy / 22 years old / studying Computer Science / bilingual Russian
+#### I'm Dmitriy / 22 years old / studying Computer Science / bilingual Russian
 
 ### Links:
 ***
