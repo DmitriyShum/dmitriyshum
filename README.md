@@ -10,8 +10,7 @@
     </ul>
       <h3>Links:</h3>
     <hr />
-      <a href="https://www.dhotspot.xyz">Website</a> <p>/</p>
-      <a href="https://www.twitter.com/DmitriyShumkin">Twitter</a>
+      <a href="https://www.dhotspot.xyz">Website</a> <p>/</p> <a href="https://www.twitter.com/DmitriyShumkin">Twitter</a>
 <hr />
   </div>
 </body>
