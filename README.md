@@ -8,7 +8,10 @@
     <ul>
       <li><p>Dmitriy / 22 years old / Computer Science Student / Bilingual Russian</p></li>
     </ul>
+      <h3>Links:</h3>
     <hr />
+      <a href="https://www.dhotspot.xyz">Website</a>
+      <a href="https://www.twitter.com/DmitriyShumkin">Twitter</a>
 <hr />
   </div>
 </body>
