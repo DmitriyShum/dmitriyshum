@@ -13,12 +13,10 @@
       <a href="https://www.dhotspot.xyz">Website</a>
       <a href="https://www.twitter.com/DmitriyShumkin">Twitter</a>
 <hr />
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+     <a href="https://github.com/DmitriyShum/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitriySHum&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
   </div>
 </body>
 </html>
