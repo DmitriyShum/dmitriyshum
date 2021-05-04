@@ -2,7 +2,7 @@
 ## Welcome to my Github!
 
 #### About me:
-I'm Dmitriy / 22 years old / studying Computer Science / bilingual Russian
+I'm Dmitriy, 22 years old, and I am bilingual Russian. I am a Computer Science student from Massachusetts, and my skills are playing the piano and accordion, as well as programming in HTML, CSS, Java, and Python. Hope you enjoy some of my works!
 
 ### Links:
 ***
