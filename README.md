@@ -13,6 +13,7 @@
       <a href="https://www.dhotspot.xyz">Website</a>
       <a href="https://www.twitter.com/DmitriyShumkin">Twitter</a>
 <hr />
+      ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitriyshum&show_icons=true&theme=radical)
   </div>
 </body>
 </html>
