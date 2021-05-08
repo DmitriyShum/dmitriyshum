@@ -6,7 +6,8 @@ I'm Dmitriy, 22 years old, and I am bilingual Russian. I am a Computer Science s
 
 ### Links:
 ***
-[Website](https://www.dhotspot.xyz)
-[Twitter](https://www.twitter.com/DmitriyShumkin)
+![logo.ico](https://www.dhotspot.xyz)
+![twitter.png](https://www.twitter.com/DmitriyShumkin)
+![yt.png](https://www.youtube.com/channel/UCKQvTzeTizeamrvI9J4-t5A)
 ***
 ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyShum&show_icons=true&theme=radical)
