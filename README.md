@@ -10,4 +10,4 @@ I'm Dmitriy, 23 years old, I am bilingual Russian and I am a Computer Science st
 <a href="https://www.youtube.com/channel/UCKQvTzeTizeamrvI9J4-t5A"><img src="yt.png" width="30" height="30"></a>
 ***
 ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyShum&show_icons=true&theme=radical)
-<a href="#" onclick="alert('Hello')">click here</a>
+<!--<a href="https://www.dhotspot.xyz"><img src="https://raw.githubusercontent.com/dmitriyshum/dmitriyshum/"></img></a>
