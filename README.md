@@ -11,3 +11,8 @@ I'm Dmitriy, bilingual Russian, and I am a Computer Science student from Massach
 ***
 ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyShum&show_icons=true&theme=radical)
 <!--<a href="https://www.dhotspot.xyz"><img src="https://raw.githubusercontent.com/dmitriyshum/dmitriyshum/"></img></a>
+
+
+<a href="#stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyShum&hide=Makefile&theme=react">
+</a>
