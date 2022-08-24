@@ -7,7 +7,7 @@ I'm Dmitriy, bilingual Russian, and I am a Computer Science student from Massach
 ### Links:
 <a href="https://www.dhotspot.xyz"><img src="logo.ico" alt="dhotspot.xyz" width="50" height="50"></a>
 <a href="https://www.twitter.com/DmitriyShumkin"><img src="twitter.png" alt="twitter.com" width="50" height="50"></a>
-<a href="https://www.dhotspotblog.wordpress.com">DHotspot Blog</a>
+<a href="https://dhotspotblog.wordpress.com">DHotspot Blog</a>
 ***
 ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyShum&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyShum&hide=Makefile&theme=react)
