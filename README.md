@@ -11,3 +11,4 @@ I'm Dmitriy, bilingual Russian, and I am a Computer Science student from Massach
 ***
 ![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyShum&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyShum&hide=Makefile&theme=react)
+[![dhotspot's Holopin board](https://holopin.io/api/user/board?user=dhotspot)](https://holopin.io/@dhotspot)
