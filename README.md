@@ -10,6 +10,6 @@
 <a href="https://www.twitter.com/DmitriyShumkin"><img src="twitter.png" alt="twitter.com" width="30" height="30"></a>
 <a href="https://dhotspotblog.wordpress.com"><img src="https://dhotspotblog.files.wordpress.com/2022/06/image-4.jpg?w=150" width="30" height="30"></a>
   <hr>
-![Dmitriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyShum&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyShum&hide=Makefile&theme=react)
-[![dhotspot's Holopin board](https://holopin.io/api/user/board?user=dhotspot)](https://holopin.io/@dhotspot)
+<p><img src="https://github-readme-stats.vercel.app/api?username=DmitriyShum&amp;show_icons=true&amp;theme=radical" alt="Dmitriy&#39;s GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyShum&amp;hide=Makefile&amp;theme=react" alt="Top Languages">
+<a href="https://holopin.io/@dhotspot"><img src="https://holopin.io/api/user/board?user=dhotspot" alt="dhotspot&#39;s Holopin board"></a></p>
