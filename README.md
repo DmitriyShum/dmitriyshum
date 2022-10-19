@@ -1,4 +1,4 @@
-<img src="launching.GIF"></img>
+<img src="launching.gif"></img>
 <h2> Welcome to my Github! </h2>
 
 <h3> About me: </h3>
