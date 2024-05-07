@@ -1,8 +1,9 @@
-<body>
-
+<head>
     <meta name="viewport" content="width=device">
     <meta charset="encoding="UTF-8" />
     <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
 
 <img src="readme.gif" alt="Dmitriy"></img>
 
