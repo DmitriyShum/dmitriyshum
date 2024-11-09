@@ -1,6 +1,9 @@
-body{
+.main{
     text-align: center;
 }
+img{
+    border-radius: 70%;
+}
 hr{
-    width: 100px;
+    width: 55px;
 }
