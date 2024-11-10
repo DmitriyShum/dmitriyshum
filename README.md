@@ -4,12 +4,6 @@
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body class="main">
-
-<center><img src="readme.gif" alt="Dmitriy" style="border-radius:18px;"></img></center>
-
-<h2> Welcome to my Github! </h2>
-
-<h3> About me: </h3>
 <ul>
   <li>Computer Science Student exploring technology and engineering</li>
   <hr>
