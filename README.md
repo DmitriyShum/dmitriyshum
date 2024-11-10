@@ -5,7 +5,7 @@
 </head>
 <body class="main">
 
-<img src="readme.gif" alt="Dmitriy"></img>
+<center><img src="readme.gif" alt="Dmitriy" style="border-radius:18px;"></img></center>
 
 <h2> Welcome to my Github! </h2>
 
