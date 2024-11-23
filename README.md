@@ -9,7 +9,7 @@
 <a class="mtext" href="https://dhotspotblog.wordpress.com"> Wordpress |</a>
 <a class="mtext" href="https://mastodon.online/@DHotspot"> Mastodon |</a>
 <a class="mtext" href="https://www.vers.social/@dmitriys"> Vers |</a>
-<a class="mtext" href="mailto:contact@dhotpot/dev"> Email me! |<a>
+<a class="mtext" href="mailto:contact@dhotspot.dev"> Email me! |<a>
   <hr style="width:30px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyShum&amp;hide=Makefile&amp;theme=react" alt="Top Languages">
 <br>
