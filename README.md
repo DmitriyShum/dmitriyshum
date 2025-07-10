@@ -4,6 +4,7 @@
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body class="main">
+    <img src="logo.png">
   <h3> Links: </h3>
 <a style="font-color:white;" class="mtext" href="https://www.dhotspot.dev"> DHotspot (Personal website) <img style="height:15px; width:15px;" src="logo.ico"></img> |</a>
 <a style="font-color:white;" class="mtext" href="https://dhotspotblog.wordpress.com"> Wordpress  |</a>
