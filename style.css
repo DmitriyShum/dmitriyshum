@@ -1,9 +1,14 @@
 .main{
-    text-align: center;
+    text-align center;
 }
 img{
-    border-radius: 70%;
+    border-radius 70%;
 }
 hr{
-    width: 55px;
+    width 55px;
+}
+
+img.skills{
+    width:45px;
+    height:45px;
 }
