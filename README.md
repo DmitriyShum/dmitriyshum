@@ -11,7 +11,7 @@
 <a style="font-color:white;" class="mtext" href="mailto:contact@dhotspot.dev"> Email me! 📧 |<a>
   <hr style="width:30px;">
 <p>Hi! I'm Dmitriy, a Computer Science student from MA, USA. My goal is to start in Information Technology out of University, and to gradually work towards becoming a System Admin. On my free time, I enjoy going on outdoor adventures such as fishing, kayaking, hiking and camping. Welcome to my profile!</p>
-    <p>tl;dr, I am enthusiastic about finding flaws in products, and fixing them. I also have experience in languages such as Java, Python, C, HTML and CSS, and experience with Linux, Windows, and OS X.</p>
+    <p>tl;dr, I am enthusiastic about finding flaws in products, and fixing them..</p>
     <br>
     <div class="skills">
       <h3>Skill Set:</h3>
