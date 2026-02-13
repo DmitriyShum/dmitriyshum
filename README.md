@@ -5,9 +5,9 @@
 <body class="main">
   <h3> Links: </h3>
 <a style="font-color:white;" class="mtext" href="https://www.dhotspot.dev"> DHotspot (Personal website)</a>
-<a style="font-color:white;" class="mtext" href="https://mastodon.online/@DHotspot"> Mastodon 🐘 </a>
-<a style="font-color:white;" class="mtext" href="https://www.vers.social/@dmitriys"> Vers </a>
-<a style="font-color:white;" class="mtext" href="mailto:contact@dhotspot.dev"> Email me! 📧<a>
+<a style="font-color:white;" class="mtext" href="https://mastodon.online/@DHotspot"> Mastodon 🐘 </a><p>|</p>
+<a style="font-color:white;" class="mtext" href="https://www.vers.social/@dmitriys"> Vers </a><p>|</p>
+<a style="font-color:white;" class="mtext" href="mailto:contact@dhotspot.dev"> Email me! 📧</a>
   <hr style="width:30px;">
 <p>Hi! I'm Dmitriy, a Computer Science student from MA, USA. My goal is to start in Information Technology out of University, and to gradually work towards becoming a System Admin. On my free time, I enjoy going on outdoor adventures such as fishing, kayaking, hiking and camping. Welcome to my profile!</p>
     <p>tl;dr, I am enthusiastic about finding flaws in products, and fixing them..</p>
