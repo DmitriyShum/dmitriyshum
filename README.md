@@ -27,11 +27,10 @@
       <a href="https://www.dropbox.com"><img style="width:45px; height:45px;" class="skills" alt="dropbox" src="images/dropbox.png"></img></a>
       <a href="https://www.virtualbox.org/"><img style="width:45px; height:45px;" class="skills" alt="virtualbox" src="images/vbox.png"></img></a>
     </div>
+    <code>
+    Cogito ergo sum
+    </code>
+
 <br>
 <a href="https://holopin.io/@dhotspot"><img style="width:auto; height:auto;" src="https://holopin.io/api/user/board?user=dhotspot" alt="dhotspot&#39;s Holopin board"></a></ul>
 </body>
-
-`
-Cogito ergo sum
-
-`
