@@ -3,17 +3,18 @@
     <meta encoding="UTF-8">
 </head>
 <body class="main">
-  <h3> Links: </h3>
-<a style="font-color:white;" class="mtext" href="https://www.dhotspot.dev"> DHotspot (Personal website)</a>
-<a style="font-color:white;" class="mtext" href="https://mastodon.online/@DHotspot"> Mastodon 🐘</a>
-<a style="font-color:white;" class="mtext" href="https://www.vers.social/@dmitriys"> Vers</a>
-<a style="font-color:white;" class="mtext" href="mailto:contact@dhotspot.dev"> Email me! 📧</a>
+<p>Hello! I'm Dmitriy, a CS Student from Boston MA. I am focused on getting into the Info Tech field, while writing programs and building Embedded Systems projects. On my free time, I enjoy going on outdoor adventures such as fishing, kayaking, hiking and camping. Welcome to my profile! Quote of 2026: "But how could you live a life and have no story to tell?" - Dostoevsky</p>
   <hr style="width:30px;">
-<p>Hi! I'm Dmitriy, a Computer Science student from MA, USA. My goal is to start in Information Technology out of University, and to gradually work towards becoming a System Admin. On my free time, I enjoy going on outdoor adventures such as fishing, kayaking, hiking and camping. Welcome to my profile!</p>
-    <p>tl;dr, I am enthusiastic about finding flaws in products, and fixing them..</p>
     <br>
-    <div class="skills">
-      <h3>Skill Set:</h3>
+    <details>
+        <summary>More about me</summary>
+        <br>
+        <p>Socials:</p>
+        <a style="font-color:white;" class="mtext" href="https://www.dhotspot.dev"> DHotspot (Personal website)</a><br>
+        <a style="font-color:white;" class="mtext" href="https://mastodon.online/@DHotspot"> Mastodon 🐘</a><br>
+        <a style="font-color:white;" class="mtext" href="https://www.vers.social/@dmitriys"> Vers</a><br>
+        <br>
+        <h3>Skill Set:</h3>
       <br>
       <a href="https://www.linux.org"><img style="width:45px; height:45px;" class="skills" alt="linux" src="images/linux.png"></img></a>
       <a href="https://www.microsoft.com"><img style="width:45px; height:45px;" class="skills" alt="windows" src="images/win.png"></img></a>
@@ -26,9 +27,5 @@
       <a href="https://www.cloudflare.com"><img style="width:45px; height:45px;" class="skills" alt="cloudflare" src="images/cloudflare.png"></img></a>
       <a href="https://www.dropbox.com"><img style="width:45px; height:45px;" class="skills" alt="dropbox" src="images/dropbox.png"></img></a>
       <a href="https://www.virtualbox.org/"><img style="width:45px; height:45px;" class="skills" alt="virtualbox" src="images/vbox.png"></img></a>
-    </div>
-    <code>"Cogito ergo sum"</code>
-
-<br>
-<a href="https://holopin.io/@dhotspot"><img style="width:auto; height:auto;" src="https://holopin.io/api/user/board?user=dhotspot" alt="dhotspot&#39;s Holopin board"></a></ul>
+    </details>
 </body>
