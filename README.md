@@ -4,7 +4,7 @@
 </head>
 <body class="main">
 <img src="https://komarev.com/ghpvc/?username=DmitriyShum&color=green" alt="View Counter">
-<p>Hello! I'm Dmitriy, a CS Student from Boston MA. I am focused on getting into the Info Tech field, while writing programs and building Embedded Systems projects. On my free time, I enjoy going on outdoor adventures such as fishing, kayaking, hiking and camping. Welcome to my profile! Quote of 2026: "But how could you live a life and have no story to tell?" - Dostoevsky</p>
+<p>Hello! I'm Dmitriy, a CS Student from Boston MA. I am focused on getting into the Info Tech field, while writing programs and building Embedded Systems projects. On my free time, I enjoy going on outdoor adventures such as fishing, kayaking, hiking and camping. Indoors, cooking, playing musical instruments, painting, and playing video games. Welcome to my profile! Quote of 2026: "But how could you live a life and have no story to tell?" - Dostoevsky</p>
   <hr style="width:30px;">
     <br>
     <details>
