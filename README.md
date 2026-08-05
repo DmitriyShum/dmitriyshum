@@ -13,7 +13,6 @@
         <p>Socials:</p>
         <a style="font-color:white;" class="mtext" href="https://www.dhotspot.dev"> DHotspot (Personal website)</a><br>
         <a style="font-color:white;" class="mtext" href="https://mastodon.online/@DHotspot"> Mastodon 🐘</a><br>
-        <a style="font-color:white;" class="mtext" href="https://www.vers.social/@dmitriys"> Vers</a><br>
         <a style="font-color:white;" class="mtext" href="https://keybase.io/tdevul1122">Keybase</a><br>
         <br>
         <h3>Skill Set:</h3>
